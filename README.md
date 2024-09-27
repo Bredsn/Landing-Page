@@ -16,7 +16,8 @@ Uma landing page simples, projetada para exibir informações sobre um desenvolv
 
 ## Captura de Tela
 
-![Captura de Tela da Landing Page](![image](https://github.com/user-attachments/assets/16862750-fc58-4b1f-9edf-b221c54e080f)
+![Captura de Tela da Landing Page](![landing page](https://github.com/user-attachments/assets/ef6ea5d3-1820-4267-a5d8-b0a0d3781fd5)
+)
 )
 
 ## Instalação
